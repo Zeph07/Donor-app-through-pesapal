@@ -1,5 +1,5 @@
 # Donor-app-through-pesapal
-This a web-based application using .NET (Version 4.5); 
+This is a web-based application using .NET (Version 4.5); 
 The application allows a donor to enter his name, email or phone number ,amount and set a period of time for their donation as:One-off,Monthly and Annual. 
 On submitting the form, a page is loaded that allows the user to make a donation using the Pesapal. 
 Create configuration parameters to allow the administrator to set the consumer key and consumer secret
